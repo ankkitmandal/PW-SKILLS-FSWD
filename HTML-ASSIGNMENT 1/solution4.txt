@@ -1,0 +1,8 @@
+Q4. Write a Short note on Tag and element with an example.
+
+1.A HTML Tag is composed of annotation or symbols, that provides structure to the text document.
+2.A HTML Element is composed of starting tag, content, ending tag ,it compiles tag and content to provide
+  structure to the text document. 
+
+Example- <h>Hello Moto</h> ,here <h> & </h> are starting and ending tag respectively, and Hello Moto is the 
+content between those tags.
