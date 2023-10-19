@@ -1,8 +1,0 @@
-Q2.Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML document?
-
-1.In HTML comments are used to write content, which don't get rendered in web browser. 
-2.We use comments to write notes about a code/program so that we could refer that later & it won't hamper our code.
-3.Comments are annotated as <!--  --> .Example <!-- Note-save html file with .html--> 
-4.Ctrl + / is used as a shortcut to write comments.
-
-

@@ -1,4 +1,0 @@
-Q5. What is the DOCTYPE Declaration in HTML?
-
-DOCTYPE Declaration in HTML is the first line of code. It specifies the HTML version used in document 
-and it convey this information with the web browser, about which version of HTML is written in document.
