@@ -1,0 +1,18 @@
+HTML entities are special codes or character references used in HTML to display characters and symbols
+ that have a reserved or special meaning in HTML or may not display correctly in the browser. Here are 
+ five commonly used HTML entities in a more colloquial Indian English style:
+
+1.(Non-Breaking Space): This one is like a space that doesn't break. It's used to create extra space 
+between words or elements in HTML without letting the browser collapse it into a single space.
+
+2.(Less Than): This entity represents the less-than symbol ("<"). It's handy when you want to show the
+ symbol itself in your web content without confusing the HTML parser.
+
+3. (Greater Than): Similar to the previous one, this entity stands for the greater-than symbol (">").
+ It ensures the browser displays it as ">", not as the start of a tag.
+
+4.(Ampersand): It's the entity for the ampersand symbol ("&"). You use it when you want to display an
+ ampersand without it being mistaken for the start of an HTML entity.
+
+5.(Copyright Symbol): If you want to show the copyright symbol (©) on your webpage, you can use this entity
+ to make it look professional and legal.

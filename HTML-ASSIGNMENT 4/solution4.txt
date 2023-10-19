@@ -1,0 +1,14 @@
+Improving the accessibility of HTML is essential for creating a web that's inclusive and usable by a wide range of
+people. Here are three ways to enhance HTML accessibility in a more colloquial Indian English style:
+
+1.Use Semantic HTML Tags: Instead of generic tags, use semantic HTML tags like <header>, <nav>, <main>, and <footer>
+ to structure your content. These tags give a clear indication of the content's purpose and help assistive 
+ technologies understand the page better.
+
+2.Provide Alternative Text for Images: When adding images, include descriptive "alt" attributes. These alt attributes
+ provide text descriptions of the images, making them accessible to screen readers and helping visually impaired 
+ users understand the content.
+
+3.Ensure Keyboard Navigation: Make sure your website can be easily navigated using only the keyboard. Test your site's
+ functionality without a mouse to ensure that all interactive elements are accessible via keyboard shortcuts, 
+ helping users with motor impairments.

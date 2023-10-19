@@ -1,0 +1,17 @@
+Some of the main features of HTML5 are as follows -
+
+1.Semantic Tags: HTML5 brings in some smart tags like <header>, <nav>, <article>, and <footer> that help 
+structure your content in a better way, making it easier for everyone and also boosting your website's Google 
+ranking.
+
+2.Video and Audio Jam: With HTML5, you can put videos and music directly on your website using the <video> 
+and <audio> tags, without the need for those pesky Flash plugins.
+
+3.Canvas Magic: The <canvas> element lets you create cool graphics right on your webpage, like games
+ or interactive stuff. It's like painting, but for the web!
+
+4.Where Are You?: HTML5 allows your website to find out where your users are. Handy for location-based 
+services and stuff like that.
+
+5.Stash Data Locally: You can store data right on your user's device using Web Storage and Web SQL Database. 
+No need to rely on cookies, making things faster and more efficient.
